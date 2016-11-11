@@ -13,7 +13,7 @@ Rebase from the original regularly to receive updated tasks
 - [x] Create a README file to track progress of tasks 
 - [x] Initialise a HTML file to view coding on the page
 - [x] Use concatenation of variables to create "This has been created with the deft hands of {Your name}"
-- [ ] Customise a welcome message based on the time of day
+- [X] Customise a welcome message based on the time of day
   - [ ] _Adjust the background of the page to reflect the time of day_
 - [ ] Print out the first 100 even integers
   - [ ] _Output the first 10 numbers in the fibonnacci sequence_
