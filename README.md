@@ -22,4 +22,3 @@ Rebase from the original regularly to receive updated tasks
 - [ ] Rework the welcome messages into an object/dictionary with easily accessible keys
 - [ ] ...tbc
 
-
