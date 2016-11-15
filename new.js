@@ -26,7 +26,18 @@ if(hour <12){
     hourparagraph.innerHTML += evening + name;
 }
 
+var evennumbers = 2
+while (evennumbers >0){
+    console.log("hello") 
+ evennumbers = evennumbers -1 
+}
 
+var comma = ","
+
+var numbersparagraph = document.getElementById("100intergers");
+for(var entry=0; entry <=200; entry += 2){
+    numbersparagraph.innerHTML += entry + comma
+}
 
 
 
