@@ -16,7 +16,7 @@ Rebase from the original regularly to receive updated tasks
 - [x] Customise a welcome message based on the time of day
   - [ ] _Adjust the background of the page to reflect the time of day_
 - [x] Print out the first 100 even integers
-  - [ ] _Output the first 10 numbers in the fibonnacci sequence_
+  - [x] _Output the first 10 numbers in the fibonnacci sequence_
 - [ ] Create a list of discrete times of the day and print them out on the screen
   - [ ] _Create an indicator which points to the correct time_
 - [ ] Rework the welcome messages into an object/dictionary with easily accessible keys
